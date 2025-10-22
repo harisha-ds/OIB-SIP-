@@ -1,5 +1,6 @@
-# OIB-SIP-
-Internship From Oasis Infobyte : 
+# OIB-SIP : 
+# Internship From Oasis Infobyte : 
+
 # Project1:EDA on retail sales data using Python
 
 # Conclusion :
@@ -7,6 +8,7 @@ The analysis shows that customers from all age groups make purchases, but most b
 
 
 # Project2:EDA on McDonald's Menu using Python
+
 # Insights : 
 1. Most menu items are from the Coffee & Tea category and Breakfast and Chicken & Fish have the highest calorie density.
 2. Calories are highly correlated with Total Fat and Sodium and Items range from 0 to 1880 calories, average 370.
@@ -14,23 +16,23 @@ The analysis shows that customers from all age groups make purchases, but most b
 
 
 # Project3 :customer Segmentation Analysis
-# Tech stack :Python data analysis,EDA,Feature engineering,kmeans algorithum(ML)
+Tech stack: Python data analysis,EDA,Feature engineering,kmeans algorithum(ML)
 
 # Conclusion :
-# Customer Segmentation :  
+1.Customer Segmentation :  
 Analyze and categorize customers based on demographics, spending habits, and satisfaction levels.  
-# Satisfaction Analysis:  
+2.Satisfaction Analysis:  
 Investigate factors influencing customer satisfaction and identify areas for improvement.   
-# Promotion Strategy:  
+3.Promotion Strategy:  
 Assess the impact of discounts on customer spending and tailor promotional strategies accordingly.
-# Retention Strategies:  
+4.Retention Strategies:  
 Develop targeted retention strategies by understanding the time gap since the last purchase. 
-# City-based Insights:  
+5.City-based Insights:  
 Explore regional variations in customer behavior to optimize marketing efforts based on location-specific trends.          
 
 
 # Project4: Predicting house price with linear regression
-#Tech stack: Python EDA,Linear regession (ML)
+Tech stack: Python EDA,Linear regession (ML)
 
 # Conclusion:
 The Linear Regression model provides a good starting point for predicting house prices using demographic and location features.
@@ -38,8 +40,10 @@ Median Income is the most important predictor of housing prices.
 
 
 # Project5:Analyzing Google Playstore data 
+
 # conclusion:
-# Data cleaning :
+
+Data cleaning :
 Missing values in the apps dataset were handled by imputing numerical columns (Rating, Size_MB) 
 with category-wise means and medians.  
 Version columns (Current Ver, Android Ver) were filled with 'Unknown' to maintain completeness.  
